@@ -6,7 +6,7 @@
 name: Jhan Perera
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description:
 
 
 #
@@ -20,14 +20,14 @@ footer-links:
   facebook: jhanp
   flickr:
   github: jhanperera
-  instagram: 
+  instagram: j_hanp
   linkedin: jhanperera
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: j_hanp
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: channel/UCI2NosV0rF45JsAZGdsmFcA
+  googleplus: u/0/+JhanPerera
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
