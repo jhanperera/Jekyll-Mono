@@ -13,13 +13,13 @@ I'm highly self-motivated, fast learner and a strong believer in team work.
 
 ## Roles
 
-Lead Software Developer, York University - UIT Client Services, Toronto, ON.
+* Lead Software Developer, York University - UIT Client Services, Toronto, ON.
 
-Senior Front-End Application Developer, Enactus Canada, Toronto, ON.
+* Senior Front-End Application Developer, Enactus Canada, Toronto, ON.
 
-Lead Web Developer, Hack Lassonde, Toronto, ON.
+* Lead Web Developer, Hack Lassonde, Toronto, ON.
 
-Computing Services Advisor, York University – UIT Client Services, Toronto ON.
+* Computing Services Advisor, York University – UIT Client Services, Toronto ON.
 
 ## Skills
 
