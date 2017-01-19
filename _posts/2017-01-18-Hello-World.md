@@ -4,7 +4,6 @@ title: Hello World
 author: Jhan Perera
 ---
 
+Still coding the site so........
 
 ## Welcome
-
-Still coding the site so........
