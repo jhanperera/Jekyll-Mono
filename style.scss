@@ -199,21 +199,27 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  width: 300px;
+  @include mobile {
+    width: 100%;
+  }
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $white;
   font-size: 16px;
+  width: 350px;
 
   @include mobile {
     margin: 3px 0;
+    width: 100%;
   }
 }
 
 nav {
   float: right;
-  margin-top: 23px; 
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -230,7 +236,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    
+
     &:hover, &:active {
       color: darken($navbar-hover-color,20);
     }
@@ -288,5 +294,12 @@ footer {
   text-align: center;
 }
 
+.me{
+  float:left;
+
+  @include mobile {
+      display: none;
+  }
+}
 @import "highlights";
 @import "jekyll-mono";

@@ -6,7 +6,7 @@
 name: Jhan Perera
 
 # Short bio or description (displayed in the header)
-description: The Life and Times of a Software Dev
+description: Eat, Sleep, Code, Repeat
 
 
 #
@@ -16,7 +16,7 @@ description: The Life and Times of a Software Dev
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jhanperera@live.come
+  email: jhanperera@live.com
   facebook: jhanp
   flickr:
   github: jhanperera
@@ -35,7 +35,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-90554153-1
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
