@@ -23,7 +23,7 @@ Computing Services Advisor, York University – UIT Client Services, Toronto ON.
 
 ## Skills
 
-* **Programming Languages** - `JAVA` / `C/C++` / `C#` / `Pythone`/ `JavaScript` / `Visual Basics` / `JavaScript` / ` PHP`
+* **Programming Languages** - `JAVA` / `C/C++` / `C#` / `Pythone`/ `JavaScript` / `Visual Basics` / `JavaScript` / `PHP`
 
 * **Database** - `MySQL` / `Oracle,` / `DB2`
 
