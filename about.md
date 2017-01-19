@@ -27,7 +27,7 @@ Computing Services Advisor, York University – UIT Client Services, Toronto ON.
 
 * **Database** - `MySQL` / `Oracle,` / `DB2`
 
-* **Operating Systems** - `Windows XP, Visa, 7, 8, 8.1, 10` / `Mac OS X/macOS` / `Linux/Unix`
+* **Operating Systems** - `Windows XP, Visa, 7, 8, 8.1, 10` / `Mac OS X and macOS` / `Linux and Unix`
 
 ## Education
 
