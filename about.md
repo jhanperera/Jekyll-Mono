@@ -4,52 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I am a full stack developer who found a passion in solving real world problems using computers and software. I have worked as a software developer for a couple of years now but I started programming at the age of 15. After building my first computer, I knew the next step was to learn how computers worked on the software side and immediately started learning Visual Basics and C#
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+I was one of 2 graduates who had the privilege of working closely with York Universities IT department to develop new software that would increase productivity and eliminate any human error. All this while maintain a full course load and developing websites for local organizations in my community.
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I'm highly self-motivated, fast learner and a strong believer in team work.
 
-## Education
-
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
 
 ## Roles
 
-Founder, ABC Organisation
+Lead Software Developer, York University - UIT Client Services, Toronto, ON.
+
+Senior Front-End Application Developer, Enactus Canada, Toronto, ON.
+
+Lead Web Developer, Hack Lassonde, Toronto, ON.
+
+Computing Services Advisor, York University – UIT Client Services, Toronto ON.
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
+* **Programming Languages** - `JAVA` / `C/C++` / `C#` / `Pythone`/ `JavaScript` / `Visual Basics` / `JavaScript` / ` PHP`
 
+* **Database** - `MySQL` / `Oracle,` / `DB2`
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* **Operating Systems** - `Windows XP, Visa, 7, 8, 8.1, 10` / `Mac OS X/macOS` / `Linux/Unix`
 
-***
+## Education
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* B.Sc., Computer Science, York University, Toronto, ON, 2017
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[jhanperera@live.com](mailto:jhanperera@live.com)
