@@ -23,15 +23,15 @@ I'm highly self-motivated, fast learner and a strong believer in team work.
 
 ## Skills
 
-* **Programming Languages** - `JAVA` / `C/C++` / `C#` / `Pythone`/ `JavaScript` / `Visual Basics` / `JavaScript` / `PHP`
+* **Programming Languages** - `JAVA` / `C/C++` / `C#` / `Python`/ `JavaScript` / `Visual Basics` / `JavaScript` / `PHP` / `HTML/CSS`
 
-* **Database** - `MySQL` / `Oracle,` / `DB2`
+* **Database** - `MySQL` / `Oracle` / `DB2`
 
-* **Operating Systems** - `Windows XP, Visa, 7, 8, 8.1, 10` / `Mac OS X and macOS` / `Linux and Unix`
+* **Operating Systems** - `Windows XP, Visa, 7, 8, 8.1, 10` / `Mac OS X/macOS` / `Linux/Unix`
 
 ## Education
 
-* B.Sc., Computer Science, York University, Toronto, ON, 2017
+* B.Sc., Computer Science, York University, Toronto, ON, Canada
 
 ## Contact me
 
