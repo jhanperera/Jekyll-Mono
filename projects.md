@@ -20,11 +20,12 @@ in a terminal.
 ### [TelNet - router VPN switcher](https://github.com/jhanperera/TelNetProjectFiles)
 A simple python application that allowed for quick and easy selection of a VPN at the router level.
 
-This allowed a whole network of devices to be on connected via VPN. Providing a safe and secure online experience. 
+This allowed a whole network of devices to be on connected via VPN. Providing a safe and secure online experience.
 
 ***
 
 ## Other Projects
+
 ### [Parking Ticketer](https://github.com/jhanperera/ParkingTicketer)
 A JAVA applet that process parking permit requests for York University.
 
