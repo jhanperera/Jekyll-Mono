@@ -40,7 +40,7 @@ Hack lassonde was a local hack day at York University. I was Lead Web Developer 
 
 The website was critical in forwarding news and other information to all the patrons of the local hack day.
 
-![alt text](https://scontent-yyz1-1.cdninstagram.com/t51.2885-15/e35/14727462_1806927116259665_3851186166598467584_n.jpg =100x20 "hacklassonde.com landing page")
+![alt text](https://scontent-yyz1-1.cdninstagram.com/t51.2885-15/e35/14727462_1806927116259665_3851186166598467584_n.jpg "hacklassonde.com landing page")
 
 ## Contact me
 
