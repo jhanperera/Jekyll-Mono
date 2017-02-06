@@ -2,7 +2,7 @@
 
 A simple github webpage that is meant for personal promotion.
 
-This site was built uing ![Jekyll-Mono](https://github.com/AkshayAgarwal007/Jekyll-Mono) theme built by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
+This site was built uing [Jekyll-Mono](https://github.com/AkshayAgarwal007/Jekyll-Mono) theme built by [Akshay Agarwal](https://github.com/AkshayAgarwal007).
 
 Feel free to fork and build your own jekyll website from this repository.
 
