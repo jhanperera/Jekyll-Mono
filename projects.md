@@ -8,13 +8,11 @@ permalink: /projects/
 
 A Financial education application being built for Enactus Canada. This app is targeted towards High School students to provide them with the fundamental knowledge about credit, debit, and other important financial terms.
 
-This mobile application is still in beta testing. Feel free to clone, compile and run using
-
-```
-ionic --serve
-```
-
-in a terminal.
+The application is only available for android
+<center>
+<a href='https://play.google.com/store/apps/details?id=com.enactus.ifinance&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100" width="240" /></a>
+</center>
 
 ***
 
