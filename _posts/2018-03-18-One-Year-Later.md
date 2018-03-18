@@ -12,6 +12,7 @@ In February I received and email inviting me to an on-site interview in Seattle.
 One year later, and I’m still working for Amazon and I love it. :smile:
 
 ![Amazon.com](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/AMAZON-1200x537.png "Amazon.com")
+
 ****
 <center>
 <div class="youtubeVideo">
