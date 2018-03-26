@@ -3,7 +3,7 @@ layout: post
 title: One Year Later
 author: Jhan Perera
 ---
-Oh boy, its been a year since I last posted here and I lot has changed.
+Oh boy, its been a year since I last posted here and a lot has changed.
 
 So, 2017 started off as a normal year for me. Still attending school, finishing up an Android app for a friend and applying for jobs. A typical January for a senior in University. Little did I know that my life was about to change thanks to a little company called Amazon.
 
