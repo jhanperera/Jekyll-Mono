@@ -6,6 +6,11 @@ This site was built uing [Jekyll-Mono](https://github.com/AkshayAgarwal007/Jekyl
 
 Feel free to fork and build your own jekyll website from this repository.
 
+To run locally:
+``
+bundle exec jekyll serve
+``
+
 ## Credits
 
 This website was only possible through the work of [Akshay Agarwal](https://github.com/AkshayAgarwal007).
